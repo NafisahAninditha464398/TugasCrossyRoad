@@ -1,3 +1,3 @@
 # TugasCrossyRoad
 Build for Windows
-\nHint: Diam di tempat sampai kemakan Elang
+# Hint: Diam di tempat sampai kemakan Elang
